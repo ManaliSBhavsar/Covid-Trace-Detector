@@ -3,7 +3,7 @@
 The application uses the face recognition algorithm for recognizing the face of the person who visits the shop. The trace of the person is marked against the Aadhaar card number of that person along with the current time and date in the database. The Aadhaar card database is used for face recognition. If the person who visited the shop tests COVID positive after some days then the last 15 days traces of the person can be obtained by entering the Aadhaar card number of the person in the web browser. The system for detecting the traces of COVID positive patients will be useful to take preventive measures at the places where the infected person has visited in the last 15 days. This will help to control the pace of spreading of the disease and will decrease the count of the infected people.
 
 # Research paper
-# The project was published in the Bioscience Biotechnology Research Communications(BBRC),New Delhi, India Approved Journal
+The project was published in the Bioscience Biotechnology Research Communications(BBRC),New Delhi, India Approved Journal
 
 Tech Stack:
 Face API JS
