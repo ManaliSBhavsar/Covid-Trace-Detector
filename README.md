@@ -30,3 +30,6 @@ Automated & Secure Data Collection
 Visual Representation of Traces
 Real-Time Monitoring with IoT Integration
 Contribution to Public Health & Safety
+
+For more details, visit:
+https://www.npmjs.com/package/face-api.js
